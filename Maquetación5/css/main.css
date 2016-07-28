@@ -1,0 +1,29 @@
+h1{
+	margin: 30px;
+	font-family: Arial;
+}
+p{
+	font-family: Verdana;
+	text-align: justify;
+	margin-bottom: 50px;
+}
+.google{
+	width: 400px;
+	height: 400px;
+}
+.navs{
+	width: 280px;
+	height: 280px;
+	margin-bottom: 20px;
+}
+.margin{
+	margin: 50px;
+}
+body{
+	background-color: #1452FC;
+}
+.border{
+	border-radius: 3%;
+	border: 5px solid #1452FC;
+	background-color: white;
+}

@@ -1,0 +1,22 @@
+.familia{
+	width: 900px;
+	height: 450px;
+}
+h1{
+	font-family: Arial;
+	margin: 20px;
+}
+p{
+	font-family: Arial;
+	text-align: justify;
+}
+.peques{
+	width: 300px;
+	height: 200px;
+}
+.margin{
+	margin-bottom: 100px;
+}
+body{
+	background-color: #FCF514;
+}

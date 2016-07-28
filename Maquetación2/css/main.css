@@ -1,0 +1,39 @@
+.rojo{
+	width: 460px;
+	margin-left: -30px;
+}
+p{
+	text-align: justify;
+	font-family: Arial;
+	font-weight: bold;
+}
+h1{
+	margin-bottom: 30px;
+	margin-top: 30px;
+	font-family: Arial;
+}
+.botones{
+	border-radius: 100%;
+	width: 70px;
+	height: 70px;
+	margin-left: -30px;
+}
+.margin{
+	margin-bottom: 20px;
+}
+body{
+	background-color: #F9F115;
+}
+.ferrari{
+	width: 300px;
+	border-radius: 4%;
+	margin-left: -30px;
+}
+.renault{
+	width: 300px;
+	height: 400px;
+}
+.mustang{
+	width: 300px;
+	height: 420px;
+}
